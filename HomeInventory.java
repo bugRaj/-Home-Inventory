@@ -13,6 +13,7 @@ import java.awt.print.*;
 public class HomeInventory extends JFrame
 {
 // Toolbar
+//By:-Raj kr. soni
 JToolBar inventoryToolBar = new JToolBar();
 JButton newButton = new JButton(new ImageIcon("new.gif"));
 JButton deleteButton = new JButton(new ImageIcon("delete.gif"));

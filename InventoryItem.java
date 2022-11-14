@@ -1,6 +1,7 @@
 package homeinventory;
 public class InventoryItem
 {
+  //By:- Raj kr. Soni
 public String description;
 public String location;
 public boolean marked;
